@@ -12,3 +12,8 @@
 {
     color: green;
 }
+
+h2:hover
+{
+    color: red;
+}

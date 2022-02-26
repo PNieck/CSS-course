@@ -27,3 +27,8 @@ textarea ~ button
 {
     color: purple;
 }
+
+img[src^="../img/"]
+{
+    border: 10px solid black;
+}

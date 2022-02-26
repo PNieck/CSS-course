@@ -1,34 +1,7 @@
-.title
-{
-    color: red;
+#title {
+    color: rgb(182, 106, 31);
 }
 
-.subtitle
-{
-    color: aqua;
-}
-
-#contact-us
-{
-    color: green;
-}
-
-h2:hover
-{
-    color: red;
-}
-
-h2 + a
-{
-    color: red;
-}
-
-textarea ~ button
-{
-    color: purple;
-}
-
-img[src^="../img/"]
-{
-    border: 10px solid black;
+.subtitle {
+    color: rgb(245, 182, 10);
 }

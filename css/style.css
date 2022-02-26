@@ -1,5 +1,6 @@
 body {
-    background: rgb(137, 187, 221);
+    /*background: rgb(137, 187, 221);*/
+    background: url("../img/img-1.jpg");
 }
 
 #title {
